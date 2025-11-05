@@ -1,2 +1,1 @@
-# MCP
-MCP Repository
+Hello!
